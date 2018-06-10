@@ -1,7 +1,7 @@
 {
-  "name": "insight-ui",
+  "name": "bloq-insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "repository": "git://github.com/bitpay/insight-ui.git",
   "contributors": [
     {
@@ -39,8 +39,7 @@
     "front-end"
   ],
   "bitcoreNode": "bitcore-node",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
     "grunt": "~0.4.2",
